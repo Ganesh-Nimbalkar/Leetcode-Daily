@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ganesh-Nimbalkar/Leetcode-Daily/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Shivnarayan07/Leetcode-Daily/tree/master/0027-remove-element) |
 | [2058-concatenation-of-array](https://github.com/Ganesh-Nimbalkar/Leetcode-Daily/tree/master/2058-concatenation-of-array) |
 ## Simulation
 |  |
@@ -19,4 +20,8 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shivnarayan07/Leetcode-Daily/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Shivnarayan07/Leetcode-Daily/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
