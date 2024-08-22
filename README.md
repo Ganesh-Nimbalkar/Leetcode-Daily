@@ -24,4 +24,12 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Shivnarayan07/Leetcode-Daily/tree/master/0027-remove-element) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/CharuliShirsath/Leetcode-Daily/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/CharuliShirsath/Leetcode-Daily/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
