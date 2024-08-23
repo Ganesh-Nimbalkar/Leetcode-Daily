@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ganesh-Nimbalkar/Leetcode-Daily/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shivnarayan07/Leetcode-Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shivnarayan07/Leetcode-Daily/tree/master/0027-remove-element) |
 | [2058-concatenation-of-array](https://github.com/Ganesh-Nimbalkar/Leetcode-Daily/tree/master/2058-concatenation-of-array) |
 ## Simulation
@@ -23,6 +24,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shivnarayan07/Leetcode-Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shivnarayan07/Leetcode-Daily/tree/master/0027-remove-element) |
 ## String
 |  |
